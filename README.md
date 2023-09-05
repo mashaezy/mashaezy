@@ -1,4 +1,7 @@
-- 👋### Hi, I'm Folashade Elizabeth ADEDAPO! 👋
+ 👋### Hi, I'm Folashade Elizabeth ADEDAPO! 👋
+
+![image](![image](https://github.com/mashaezy/mashaezy/assets/138001079/16e866a3-f5ae-4cbd-bb43-ce157f1ec1cf)
+
 
 I'm passionate about leveraging data to drive insights and make informed decisions. With a background in Data Science and Analytics, I'm constantly exploring ways to transform raw data into meaningful stories that empower data-driven strategies.
 
